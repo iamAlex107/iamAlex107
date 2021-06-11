@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/iamAlex107/iamAlex107/blob/main/images/HandWave.gif" width="25px">,
+### Hi there <img src="https://github.com/iamAlex107/iamAlex107/blob/main/images/HandWave.gif" width="25px">
 
 <!--
 **iamAlex107/iamAlex107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
