@@ -10,4 +10,4 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: <b>Discord:</b> iamAlex#9999
 - ⚡ Fun fact: I am a boy and not a girl !
 
-<img src = "https://discord.c99.nl/widget/theme-3/720990078981111888.png" align = "center">
+<img align = "center" src = "https://discord.c99.nl/widget/theme-3/720990078981111888.png">
