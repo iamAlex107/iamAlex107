@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on my bot <b><em>Averion</b></em>
 - 🌱 I’m currently learning Python, JavaScript and Advanced Java
 - 📫 How to reach me: <b>Discord:</b> iamAlex#1306
+- 🆘 Another Way to reach me: https://github.com/Bedanta1010
 - ⚡ Fun fact: I am a boy and not a girl !
 
 <hr>
